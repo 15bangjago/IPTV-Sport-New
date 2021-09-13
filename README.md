@@ -46,7 +46,7 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61793
 #EXTINF:-1,ID053: Bein Sports 1 
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60455 
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6589.1491349382.png" beIN Sports 1
+#EXTINF:0 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6589.1491349382.png", beIN Sports 1
 http://yassooo.com:8080/benAlaa/829293992/80024
 
 #EXTINF:-1,beIN: Sports English 02 HD 
