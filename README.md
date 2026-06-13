@@ -1,5 +1,5 @@
-# IPTV-Sport-New
-Iptv
+# WORLD CUP 2026
+
 
 #EXTINF:-1,MY013: Super Sport 1 
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1722
